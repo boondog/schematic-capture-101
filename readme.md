@@ -1,0 +1,1 @@
+Materials and information for the Lowell Makes Schematic Capture and PCB Layout 101 class.
