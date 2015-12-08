@@ -7,5 +7,5 @@ http://www.cadsoftusa.com/download-eagle/
 
 The tutorial will be based on this simple 555 timer circuit:<br>
 <center>
-<img src="schematic-capture-101/555circuits_1237474616.jpg">
+<img src="https://raw.githubusercontent.com/boondog/schematic-capture-101/master/555circuits_1237474616.jpg">
 </center>
