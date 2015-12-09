@@ -33,5 +33,13 @@ PCB Layout Topics:
  - Review autorouter settings and run autorouter
  - Ripup nets
  - Manually route nets
+ - Explode parts and place silkscreen
+ - Add notes in silkscreen and etch
  - Run DRC and fix issues
  - Upload to PCB fab house, review and order
+
+PCB Ordering:
+http://support.seeedstudio.com/knowledgebase/articles/422482-fusion-pcb-order-submission-guidelines
+
+https://oshpark.com/
+
