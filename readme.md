@@ -22,6 +22,7 @@ Schematics Topics:
  - Connect with net names
  - Create BOM
  - Run ERC check
+
 PCB Layout Topics:
  - Create outline
  - Create GND and power planes
