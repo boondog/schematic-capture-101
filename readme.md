@@ -5,7 +5,7 @@ This class is a basic introduction to schematic capture and PCB layout using Eag
 The program may be downloaded free from here:
 http://www.cadsoftusa.com/download-eagle/
 
-<a href="https://raw.githubusercontent.com/boondog/schematic-capture-101/master/555_timer_internals.jpg">
+<img src="https://raw.githubusercontent.com/boondog/schematic-capture-101/master/555_timer_internals.jpg">
 
 The tutorial will be based on this simple 555 timer circuit:<br>
 <img src="https://raw.githubusercontent.com/boondog/schematic-capture-101/master/555circuits_1237474616.jpg">
